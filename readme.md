@@ -10,15 +10,9 @@
 ## git checkout BRANCH
 ## git branch -a
 ## git branch -u (master/develop)
-<<<<<<< HEAD
-=======
 
-<<<<<<< HEAD
->>>>>>> release
-=======
 - Merge the braches :
 ### relese/dev - dev/master
 ## git branch -v
 ## git merge BRANCH
 ## git log --oneline
->>>>>>> release
