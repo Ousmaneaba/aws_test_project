@@ -11,3 +11,8 @@
 ## git branch -a
 ## git branch -u (master/develop)
 
+- Merge the braches :
+### relese/dev - dev/master
+## git branch -v
+## git merge BRANCH
+## git log --oneline
