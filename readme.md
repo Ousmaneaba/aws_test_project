@@ -10,3 +10,7 @@
 ## git checkout BRANCH
 ## git branch -a
 ## git branch -u (master/develop)
+<<<<<<< HEAD
+=======
+
+>>>>>>> release
